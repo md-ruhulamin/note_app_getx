@@ -1,0 +1,14 @@
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/note_app_getx
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/icudtl.dat
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/build/linux/x64/debug/bundle/data/flutter_assets/version.json

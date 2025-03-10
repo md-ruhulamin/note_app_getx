@@ -1,0 +1,1 @@
+ /mnt/F09ABF3F9ABF0160/EDGE/note_app_getx/.dart_tool/flutter_build/8ec8dac63a9e1417a40e7a67c7c94766/native_assets.yaml: 
